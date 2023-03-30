@@ -1,0 +1,79 @@
+Course Description
+Languages Available: Deutsch | Español (Latinoamérica) | Français | Bahasa Indonesia | Italiano | 日本語 | 한국어 | Português (Brasil) | 中文（简体) | 中文（繁體) | Tiếng Việt
+This course prepares you to take the AWS Certified Machine Learning – Specialty exam, which validates your ability to design, implement, deploy, and maintain machine learning (ML) solutions.
+
+In this course, you’ll learn about the logistics of the exam and the mechanics of exam questions, and you’ll explore the exam’s technical domains. You’ll review core AWS services and key concepts for the exam domains:
+
+Data Engineering
+Exploratory Data Analysis
+Modeling
+Machine Learning Implementation and Operations
+
+
+You’ll also learn key test-taking strategies and will put them into action, taking multiple study questions. Once you’ve honed your skills, you’ll have the chance to take a quiz that will help you assess your areas of strength and weakness, so that you’ll know what to emphasize in your pre-exam studies.
+
+
+Course objectives
+By the end of this course, you will be able to:
+
+Identify your strengths and weaknesses in each exam domain so that you know what to focus on when studying for the exam
+Describe the technical topics and concepts that make up each of the exam domains
+Summarize the logistics and mechanics of the exam and its questions
+Use effective strategies for studying and taking the exam
+
+Intended audience
+This course is intended for:
+
+ML practitioners who have at least one year of practical experience, and who are preparing to take the AWS Certified Machine Learning – Specialty exam
+
+Prerequisites
+We recommend that attendees of this course have:
+
+Proficiency expressing the intuition behind basic ML algorithms and performing basic hyperparameter optimization
+Understanding of the ML pipeline and its components
+Experience with ML and deep learning frameworks
+Understanding of and experience in model training, deployment, and operational best practices
+Enroll
+
+
+Course outline
+Module 0: Course Introduction
+Module 1: Exam Overview and Test-taking Strategies
+Exam overview, logistics, scoring, and user interface
+Question mechanics and design
+Test-taking strategies
+Module 2: Domain 1 - Data Engineering
+Domain 1.1: Data Repositories for ML
+Domain 1.2: Identify and implement a data-ingestion solution
+Domain 1.3: Identify and implement a data-transformation solution
+Walkthrough of study questions
+Domain 1 quiz
+Module 3: Domain 2 - Exploratory Data Analysis
+Domain 2.1: Sanitize and prepare data for modeling
+Domain 2.2: Perform featuring engineering
+Domain 2.3: Analyze and visualize data for ML
+Walkthrough of study questions
+Domain 2 quiz
+Module 4: Domain 3 - Modeling
+Domain 3.1: Frame business problems as ML problems
+Domain 3.2: Select the appropriate model(s) for a given ML problem
+Domain 3.3: Train ML models
+Domain 3.4 Perform hyperparameter optimization
+Domain 3.5 Evaluate ML models
+Walkthrough of study questions
+Domain 3 quiz
+Module 5: Domain 4 - ML Implementation and Operations
+Domain 4.1: Build ML solutions for performance, availability, scalability, resiliency, and fault tolerance
+Domain 4.2: Recommend and implement the appropriate ML services and features for a given problem
+Domain 4.3: Apply basic AWS security practices to ML solutions
+Domain 4.4: Deploy and operationalize ML solutions
+Walkthrough of study questions
+Domain 4 quiz
+Module 6: Additional Study Questions
+Opportunity to take additional study questions
+Module 7: Recommended Study Material
+Links to AWS blogs, documentation, FAQs, and other recommended study material for the exam
+Module 8: Course Wrap-up
+How to sign up for the exam
+Course summary
+Course feedback

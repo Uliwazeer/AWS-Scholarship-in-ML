@@ -1,0 +1,42 @@
+Course Description
+Languages Available: Deutsch | Español (Latinoamérica) | Français | ไทย | Italiano | 日本語 | 한국어 | Português (Brasil) | 中文（简体) | 中文（繁體) | Tiếng Việt
+This digital course is designed to help business decision makers understand the fundamentals of machine learning (ML).
+
+     • Course level: Fundamental
+
+     • Duration: 30 minutes
+
+Activities
+This course includes presentations, videos, and knowledge assessments.
+
+Course objectives
+In this course, you will learn to:     
+
+Understand the basics of machine learning to help evaluate the benefits and risks associated with adopting ML in various business cases
+Intended audience
+This course is intended for:    
+
+Nontechnical business leaders and other business decision makers who are, or will be, involved in ML projects     
+Participants of the AWS Machine Learning Embark program, and Machine Learning Solutions Lab (MLSL) discovery workshops
+Prerequisites
+We recommend that attendees of this course have:    
+
+Basic knowledge of computers and computer systems     
+Some basic knowledge of the concept of machine learning
+Course outline
+Module 1: How can machine learning help?   
+
+Define artificial intelligence     
+Define machine learning    
+Describe the different business domains impacted by machine learning     
+Describe the positive feedback loop (flywheel) that drives ML projects     
+Describe the potential for machine learning in underutilized markets
+Module 2: How does machine learning work?     
+
+Describe artificial intelligence     
+Describe the difference between artificial intelligence and machine learning
+Module 3: What are some potential problems with machine learning?    
+
+Describe the differences between simple and complex models     
+Understand unexplainability and uncertainty problems with machine learning models
+Module 4: Conclusion

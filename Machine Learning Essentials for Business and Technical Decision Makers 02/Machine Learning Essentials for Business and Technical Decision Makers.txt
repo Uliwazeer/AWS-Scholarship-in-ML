@@ -1,0 +1,149 @@
+Course Description
+Languages Available: Deutsch | Español (Latinoamérica) | Español (España) | Français | Bahasa Indonesia | ไทย | Italiano | 日本語 | 한국어 | Português (Brasil) | 中文（简体) | 中文（繁體) | Tiếng Việt
+Curriculum description
+In this three-course curriculum, you will learn about best practices and recommendations for machine learning (ML). The course explores how to roadmap for integrating ML into your business processes, explores requirements to determine if ML is the appropriate solution to a business problem, and describes what components are needed for a successful organizational adoption of ML.
+
+      •    Course Level: Foundational
+
+      •    Duration: 1 Hour 30 Minutes
+
+
+Activities
+This curriculum includes courses with presentations, videos, and knowledge assessments.
+
+
+Curriculum objectives
+In this curriculum, you will learn to:
+
+      • Understand the basics of machine learning to help evaluate the benefits and risks associated with adopting ML in various business cases
+
+      • Identify the data, time, and production requirements for a successful ML project
+
+      • Describe how to adapt an organization to achieve and sustain success using ML
+
+
+Intended audience
+This curriculum is intended for:
+
+      • Nontechnical business leaders and other business decision makers who are, or will be, involved in ML projects
+
+      • Participants of the AWS Machine Learning Embark program, and Machine Learning Solutions Lab (MLSL) discovery workshops
+
+
+Prerequisites
+We recommend that attendees of this course have:
+
+      • Basic knowledge of computers and computer systems
+
+      • Some basic knowledge of the concept of machine learning 
+
+
+Curriculum outline
+Course 1: Introduction to Machine Learning: Art of the Possible
+Module 1. How can machine learning help?
+
+      • Define machine learning
+
+      • Describe the positive feedback loop (flywheel) that drives ML projects
+
+      • Describe the different business domains impacted by machine learning
+
+      • Describe the potential for machine learning in underutilized markets
+
+
+
+Module 2. How does machine learning work?
+
+      • Describe artificial intelligence
+
+      • Describe the difference between artificial intelligence and machine learning
+
+
+
+Module 3. What are some potential problems with machine learning?
+
+      • Describe the differences between simple and complex models
+
+      • Understand unexplainability and uncertainty problems with machine learning models
+
+
+
+Module 4. Conclusion
+
+
+Course 2: Planning a Machine Learning Project
+Module 1. Is a machine learning solution appropriate for my problem?
+
+      • Explain how to determine if ML is the appropriate solution to your business problem
+
+
+
+Module 2. Is my data ready for machine learning?
+
+      • Describe the process of ensuring that your data is ML ready
+
+
+
+Module 3. How will machine learning impact a project timeline?
+
+      • Explain how ML can impact a project timeline
+
+
+
+Module 4. What early questions should I ask in deployment?
+
+      • Identify the questions to ask that affect ML deployment
+
+
+
+Module 5. Conclusion
+
+
+Course 3: Building a Machine Learning Ready Organization
+Module 1. How can I prepare my organization for using ML?
+
+      • How can I prepare my organization for using ML?
+
+      • How can AWS help me?
+
+      • What other strategies can I adopt to ensure organizational success?
+
+      • Which cultural shift-approach works for my organization?
+
+
+
+Module 2. How do I evaluate my data strategy?
+
+      • How do I evaluate my data strategy?
+
+      • How can I improve my data strategy?
+
+
+
+Module 3. How do I create a culture of learning and collaboration?
+
+      • How do I create a culture of learning and collaboration?
+
+      • What is a data scientist?
+
+      • What skills should a data scientist have?
+
+      • What does a pilot ML team look like?
+
+      • What other supporting roles will I need?
+
+      • What are the key responsibilities?
+
+
+
+Module 4. How do I start my ML journey?
+
+      • How do I start my ML journey?
+
+      • What does an organization’s ML journey look like?
+
+      • What is an example business case for an organization’s progression?
+
+
+
+Module 5. Conclusion

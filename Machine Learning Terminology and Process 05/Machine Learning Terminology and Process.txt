@@ -1,0 +1,25 @@
+Course Description
+Languages Available: Deutsch | Español (Latinoamérica) | Español (España) | Français | Bahasa Indonesia | ไทย | Italiano | 日本語 | 한국어 | Português (Brasil) | 中文（简体) | 中文（繁體) | Tiếng Việt
+This course introduces you to basic machine learning concepts and the machine process the data goes through. We explore each step in the machine learning process in detail and explain some of the common terms and techniques that occur during a phase of a ML project.
+
+
+Course Objectives
+This course teaches you how to:
+
+Discuss the machine learning process
+Highlight the basic ML terms used in a ML project
+Describe each ML step in detail
+Describe common techniques used in each step of a ML process
+
+Intended Audience
+This course is intended for:
+
+Developers who want to understand the components in a ML process
+
+Delivery Method
+This course is delivered through a mix of:
+
+Digital
+
+Duration
+1 Hour

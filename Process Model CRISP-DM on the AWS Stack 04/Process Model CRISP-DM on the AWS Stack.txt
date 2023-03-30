@@ -1,0 +1,3 @@
+Course Description
+Languages Available: Deutsch | Español (Latinoamérica) | Español (España) | Français | Bahasa Indonesia | ไทย | Italiano | 日本語 | 한국어 | Português (Brasil) | 中文（简体) | 中文（繁體) | Tiếng Việt
+The CRISP-DM model frames data science as a cyclical endeavor. Here, we'll walk through the CRISP-DM methodology and framework and then apply the model's six phases to your daily work as a data scientist with Jake Chen, a Data Science consultant with AWS.
